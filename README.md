@@ -1,4 +1,4 @@
-** Canny Edge Detection **
+**Canny Edge Detection**
 
 * Run the main file 
 * open the swagger and drop the image to api
